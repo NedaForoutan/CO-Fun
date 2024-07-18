@@ -22,7 +22,12 @@ In the following the content of each file is explained:
       "type": "Unternehmen"
     }
   ],
-  "text": "<html><head></head><body>• Die <span id=\"255c1d4a-d9b0-4fff-8779-6a68f803ce51\" type=\"Auslagerung\" class=\"annotation\" style=\"color: #ff0000\">Ermittlung der tÃ¤glichen und jÃ¤hrlichen Steuerdaten</span> fÃ¼r die Fonds wurde auf die <span id=\"fad78727-1645-4b39-9478-daecb3b4bd2b\" type=\"Unternehmen\" class=\"annotation\" style=\"color: #0000ff\">tba - the beauty aside GmbH</span> ausgelagert.</body></html>",
+  "text": "<html>
+              <head></head>
+              <body>
+                • Die <span id=\"255c1d4a-d9b0-4fff-8779-6a68f803ce51\" type=\"Auslagerung\" class=\"annotation\" style=\"color: #ff0000\">Ermittlung der tÃ¤glichen und jÃ¤hrlichen Steuerdaten</span> fÃ¼r die Fonds wurde auf die <span id=\"fad78727-1645-4b39-9478-daecb3b4bd2b\" type=\"Unternehmen\" class=\"annotation\" style=\"color: #0000ff\">tba - the beauty aside GmbH</span> ausgelagert.
+              </body>
+           </html>",
   "relations": [
     {
       "src": {: "rgb(255, 0, 0)",
