@@ -6,7 +6,7 @@ The process of cyber mapping gives insights in relationships among financial ent
 In the following the content of each file is explained:
 - CO-Fun-1.0-anonymized.jsonl file contains the raw data of CO-Fun consists of records formatted in JSON. Each entry has the annotated text which is present in form of HTML.  The annotation for each named entity in the text are specified with span tags. Below you can find an exmple of an entry in raw data:
 
-'''{
+``{
   "datetime": "2023-05-04T14:15:54.501875783",
   "entities": [
     {
@@ -46,7 +46,7 @@ In the following the content of each file is explained:
     }
   ]
 }
-'''
+``
 
  
 
